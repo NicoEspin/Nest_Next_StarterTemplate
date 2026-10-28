@@ -1,0 +1,12 @@
+.starter-baseline/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.starter-tools/
+
+.agents/
+.claude/
+*.tsbuildinfo
+audit-current.json
